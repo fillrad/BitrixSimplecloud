@@ -1,9 +1,18 @@
+:root {
+  --color-accent: #00bce5;
+  --color-white: #fff;
+  --color-text: #222;
+  --color-gray: #f5f5f5;
+  --color-darkgray: #e5e5e5;
+  --border-radius: 25px;
+}
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
 
 body {
-  background: red;
+  background: --color-white;
 }
 /*# sourceMappingURL=styles.css.map */

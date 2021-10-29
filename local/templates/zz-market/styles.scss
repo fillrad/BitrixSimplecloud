@@ -1,7 +1,9 @@
+@import "css/vars";
+
 *{
     box-sizing: border-box;
 }
 
 body{
-    background: red;
+    background: --color-white;
 }
